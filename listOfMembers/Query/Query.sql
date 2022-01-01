@@ -1,0 +1,7 @@
+﻿--SELECT * FROM [ICpEPSE members]
+
+--SELECT COUNT(Name) AS LISTOFMEMBERS
+--FROM [ICpEPSE members]
+--AS Name
+
+SELECT * FROM [ICpEPSE members];
